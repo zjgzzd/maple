@@ -1,2 +1,2 @@
-# maple.github.io
+# maple
 personal website
